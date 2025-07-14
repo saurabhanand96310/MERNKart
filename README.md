@@ -40,8 +40,8 @@ MERNKart/
 
 ```bash
 # Clone the repository
-git clone https://github.com/saurabhanand96310/mernkart.git
-cd mernkart
+git clone https://github.com/saurabhanand96310/MERNKart.git
+cd MERNKart
 
 # Install dependencies
 npm install
